@@ -1,0 +1,10 @@
+name: TaterEco
+version: 1.0
+main: me.ryandw11.tatertot.Tatertot
+author: Ryandw11
+description: Tatertot economy system!
+api-version: 1.13
+commands:
+    tater:
+     description: TaterTots!
+     aliases: [tt]
